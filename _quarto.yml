@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alex Morgan | MBA Portfolio"
+
+format:
+  html:
+    theme: flatly
+    toc: false
+    page-layout: full

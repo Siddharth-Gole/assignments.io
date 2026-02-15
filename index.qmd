@@ -1,0 +1,104 @@
+---
+title: "Alex Morgan | MBA Candidate Portfolio"
+---
+
+::: {.columns}
+::: {.column width="30%"}
+![](headshot.jpg){width=100%}
+
+**Alex Morgan**  
+MBA Candidate  
+
+📍 Boston, MA  
+📧 alex.morgan@email.com  
+📞 (555) 123-4567  
+🔗 [LinkedIn](https://linkedin.com/in/alexmorgan)  
+🔗 [Portfolio](https://alexmorgan.com)
+:::
+
+::: {.column width="70%"}
+
+## Brief Bio
+
+Results-driven MBA candidate with 5+ years of experience in strategy, operations, and data-driven decision-making. I am passionate about leveraging analytics and leadership to drive sustainable business growth. My career focus is in strategic consulting and corporate innovation, with a long-term goal of leading transformation initiatives in global organizations.
+
+---
+
+## Education
+
+**Master of Business Administration (MBA)**  
+2025 Candidate  
+XYZ University, Boston, MA  
+
+- Concentration: Strategy & Analytics  
+- GPA: 3.8/4.0  
+- Leadership: Consulting Club – VP of Projects  
+- Selected Coursework: Corporate Finance, Competitive Strategy, Data Analytics, Operations Management  
+
+**Bachelor of Science in Economics**  
+ABC University  
+
+- Graduated: Magna Cum Laude  
+- Dean’s List (All Semesters)  
+
+---
+
+## Professional Experience & Highlights
+
+**Senior Business Analyst**  
+Tech Solutions Inc. | 2021–2024  
+
+- Led cross-functional team of 6 to redesign supply chain processes, reducing costs by 15% annually  
+- Developed financial forecasting models improving revenue projections accuracy by 20%  
+- Presented strategic recommendations to C-suite executives  
+
+**Business Analyst**  
+Global Consulting Group | 2019–2021  
+
+- Delivered market entry strategy for Fortune 500 client  
+- Conducted competitive analysis across 3 international markets  
+- Improved client operational efficiency by 12%  
+
+---
+
+## Key Skills & Strengths
+
+**Strategic & Analytical**
+- Financial modeling & valuation  
+- Market analysis  
+- Business strategy development  
+- Data visualization (Tableau, Power BI)
+
+**Leadership & Communication**
+- Cross-functional team leadership  
+- Executive presentations  
+- Stakeholder management  
+- Project management (Agile/Scrum)
+
+**Technical**
+- Excel (Advanced)  
+- SQL  
+- Python (Business Analytics)  
+- PowerPoint storytelling  
+
+---
+
+## Professional Headshot or Logo
+
+*Insert high-resolution professional headshot above (recommended size: 600x800px) or personal branding logo.*
+
+---
+
+## Contact
+
+I welcome opportunities in strategy consulting, corporate strategy, and business analytics.
+
+📧 Email: alex.morgan@email.com  
+📞 Phone: (555) 123-4567  
+🔗 LinkedIn: https://linkedin.com/in/alexmorgan  
+🌐 Portfolio: https://alexmorgan.com  
+
+---
+*References available upon request.*
+:::
+:::

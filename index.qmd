@@ -1,84 +1,79 @@
 ---
-title: "Alex Morgan | MBA Candidate Portfolio"
+title: "Siddharth Gole | MBA Candidate Portfolio"
 ---
 
 ::: {.columns}
 ::: {.column width="30%"}
 ![](headshot.jpg){width=100%}
 
-**Alex Morgan**  
+**Siddharth Gole**  
 MBA Candidate  
 
-📍 Boston, MA  
-📧 alex.morgan@email.com  
-📞 (555) 123-4567  
-🔗 [LinkedIn](https://linkedin.com/in/alexmorgan)  
-🔗 [Portfolio](https://alexmorgan.com)
+📍 Vancouver, BC  
+📧 siddharthgole111@gmail.com  
+📞 (672)699-5417  
+
 :::
 
 ::: {.column width="70%"}
 
 ## Brief Bio
 
-Results-driven MBA candidate with 5+ years of experience in strategy, operations, and data-driven decision-making. I am passionate about leveraging analytics and leadership to drive sustainable business growth. My career focus is in strategic consulting and corporate innovation, with a long-term goal of leading transformation initiatives in global organizations.
+MBA student with a focus in Finance and good analytical and quantitative abilities in financial reporting, capital budgeting methods like NPV and IRR. Determined to provide precise financial information and risk management. Career goal is to seek the prospects in Banking or Investment Analysis in the Canadian market.
 
 ---
 
 ## Education
 
 **Master of Business Administration (MBA)**  
-2025 Candidate  
-XYZ University, Boston, MA  
 
-- Concentration: Strategy & Analytics  
-- GPA: 3.8/4.0  
-- Leadership: Consulting Club – VP of Projects  
-- Selected Coursework: Corporate Finance, Competitive Strategy, Data Analytics, Operations Management  
+University Canada West , Vancouver, BC
 
-**Bachelor of Science in Economics**  
+- Concentration: Finance  
+- GPA: 3.4/4.0  
+  
+- Selected Coursework: Corporate Finance, Investment Analysis, Financial Management , Risk Management 
+
+**Bachelor of commerce**  
 ABC University  
 
-- Graduated: Magna Cum Laude  
-- Dean’s List (All Semesters)  
+- Graduated: 2023 
 
 ---
 
 ## Professional Experience & Highlights
 
-**Senior Business Analyst**  
-Tech Solutions Inc. | 2021–2024  
+**Financial Analyst**  
+Shree Ganesh Trading Co. | 2023–2024  
 
-- Led cross-functional team of 6 to redesign supply chain processes, reducing costs by 15% annually  
-- Developed financial forecasting models improving revenue projections accuracy by 20%  
-- Presented strategic recommendations to C-suite executives  
+- Conducted monthly financial reports and kept proper bookkeeping records. 
+- Carried out cost and expense analysis to increase profits by 10 percent. 
+- Tracked accounts receivable and payable in order to maintain healthy working capital.
+- Helped owner in budgeting and financial planning.
 
-**Business Analyst**  
-Global Consulting Group | 2019–2021  
 
-- Delivered market entry strategy for Fortune 500 client  
-- Conducted competitive analysis across 3 international markets  
-- Improved client operational efficiency by 12%  
 
 ---
 
 ## Key Skills & Strengths
 
-**Strategic & Analytical**
-- Financial modeling & valuation  
-- Market analysis  
-- Business strategy development  
-- Data visualization (Tableau, Power BI)
+**Financial Analysis**
+- Ratio & Trend Analysis 
+- Interpretation of an Income Statement and a Balance Sheet  
+- Cash Flow Analysis 
+- Variance Analysis
 
-**Leadership & Communication**
-- Cross-functional team leadership  
-- Executive presentations  
-- Stakeholder management  
-- Project management (Agile/Scrum)
+**Corporate Finance**
+- Budgeting & Forecasting
+- Capital Budgeting (NPV, IRR, Payback)
+- Cost Analysis  
+- Profitability Analysis
+
 
 **Technical**
 - Excel (Advanced)  
-- SQL  
-- Python (Business Analytics)  
-- PowerPoint storytelling  
+- SQL (Learning)
+- Power BI (Basic)  
+- 
 
 ---

@@ -3,10 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Alex Morgan | MBA Portfolio"
-
-format:
-  html:
-    theme: flatly
-    toc: false
-    page-layout: full
+  title: "Siddharth Gole | MBA Candidate Portfolio"
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd
+    footer:
+      left: "© 2026 Siddharth Gole. All rights reserved."

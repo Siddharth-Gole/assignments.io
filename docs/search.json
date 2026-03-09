@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Siddharth Gole\nMBA Candidate | Finance Focus\nVancouver, BC | siddharthgole111@gmail.com | (672) 699-5417\nDownload Full Resume (PDF){download}"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nMBA student with a focus in Finance and strong analytical and quantitative abilities in financial reporting, capital budgeting methods like NPV and IRR. Determined to provide precise financial information and risk management. Seeking opportunities in Banking or Investment Analysis in the Canadian market."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Business Administration (MBA)\nUniversity Canada West, Vancouver, BC\n- Concentration: Finance\n- GPA: 3.4/4.0\n- Selected Coursework: Corporate Finance, Investment Analysis, Financial Management, Risk Management\nBachelor of Commerce\nSavitribai Phule Pune University\n- Graduated: 2023"
+  },
+  {
+    "objectID": "resume.html#professional-experience-highlights",
+    "href": "resume.html#professional-experience-highlights",
+    "title": "Resume",
+    "section": "Professional Experience & Highlights",
+    "text": "Professional Experience & Highlights\nFinancial Analyst\nShree Ganesh Trading Co. | 2023–2024\n\nConducted monthly financial reports and kept proper bookkeeping records.\n\nCarried out cost and expense analysis to increase profits by 10 percent.\n\nTracked accounts receivable and payable in order to maintain healthy working capital.\n\nHelped owner in budgeting and financial planning."
+  },
+  {
+    "objectID": "resume.html#key-skills-strengths",
+    "href": "resume.html#key-skills-strengths",
+    "title": "Resume",
+    "section": "Key Skills & Strengths",
+    "text": "Key Skills & Strengths\nFinancial Analysis\n- Ratio & Trend Analysis\n- Interpretation of an Income Statement and a Balance Sheet\n- Cash Flow Analysis\n- Variance Analysis\nCorporate Finance\n- Budgeting & Forecasting\n- Capital Budgeting (NPV, IRR, Payback)\n- Cost Analysis\n- Profitability Analysis\nTechnical\n- Excel (Advanced)\n- SQL (Learning)\n- Power BI (Basic)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Siddharth Gole | MBA Candidate Portfolio",
@@ -40,5 +75,47 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am actively seeking opportunities in Banking or Investment Analysis in the Canadian market. Feel free to reach out!\n\n\n\nEmail: siddharthgole111@gmail.com\n\nPhone: (672) 699-5417\n\nLocation: Vancouver, BC\n\nLet’s discuss how my finance background and quantitative skills can add value to your team."
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: siddharthgole111@gmail.com\n\nPhone: (672) 699-5417\n\nLocation: Vancouver, BC\n\nLet’s discuss how my finance background and quantitative skills can add value to your team."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Selected projects that demonstrate my financial analysis, capital budgeting, and investment skills.\n\n\nDuring my Corporate Finance course at University Canada West, I completed a full capital budgeting evaluation for a hypothetical Canadian manufacturing firm’s expansion project.\n\nMethods: NPV, IRR, Payback Period, and sensitivity analysis on discount rate and sales growth.\n\nTools: Advanced Excel financial modeling.\n\nOutcome: Recommended approval — positive NPV of ~CAD 52,000 and IRR of 18% (exceeding cost of capital).\n\nThis directly applied the capital budgeting techniques highlighted in my bio.\n\n\n\nBuilding on my role as Financial Analyst, I led an internal project to improve cost tracking and reporting.\n\nMethods: Variance analysis, trend analysis, ratio analysis on income statements and balance sheets.\n\nTools: Advanced Excel dashboards.\n\nOutcome: Identified inefficiencies that increased profits by 10% and improved working capital management.\n\n\n\n\nIn Investment Analysis, I constructed and evaluated a diversified portfolio targeted at the Canadian market.\n\nMethods: Ratio & trend analysis, cash flow evaluation, sector allocation for risk management.\n\nTools: Excel + introductory SQL for data handling.\n\nOutcome: Portfolio with projected 7–9% annual return while maintaining balanced risk exposure (finance & energy sectors).\n\nThese projects showcase my readiness for banking and investment roles in Canada."
+  },
+  {
+    "objectID": "projects.html#capital-budgeting-analysis-corporate-finance-coursework",
+    "href": "projects.html#capital-budgeting-analysis-corporate-finance-coursework",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "During my Corporate Finance course at University Canada West, I completed a full capital budgeting evaluation for a hypothetical Canadian manufacturing firm’s expansion project.\n\nMethods: NPV, IRR, Payback Period, and sensitivity analysis on discount rate and sales growth.\n\nTools: Advanced Excel financial modeling.\n\nOutcome: Recommended approval — positive NPV of ~CAD 52,000 and IRR of 18% (exceeding cost of capital).\n\nThis directly applied the capital budgeting techniques highlighted in my bio."
+  },
+  {
+    "objectID": "projects.html#cost-optimization-financial-reporting-project-shree-ganesh-trading-co.",
+    "href": "projects.html#cost-optimization-financial-reporting-project-shree-ganesh-trading-co.",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Building on my role as Financial Analyst, I led an internal project to improve cost tracking and reporting.\n\nMethods: Variance analysis, trend analysis, ratio analysis on income statements and balance sheets.\n\nTools: Advanced Excel dashboards.\n\nOutcome: Identified inefficiencies that increased profits by 10% and improved working capital management."
+  },
+  {
+    "objectID": "projects.html#investment-portfolio-simulation-investment-analysis-coursework",
+    "href": "projects.html#investment-portfolio-simulation-investment-analysis-coursework",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "In Investment Analysis, I constructed and evaluated a diversified portfolio targeted at the Canadian market.\n\nMethods: Ratio & trend analysis, cash flow evaluation, sector allocation for risk management.\n\nTools: Excel + introductory SQL for data handling.\n\nOutcome: Portfolio with projected 7–9% annual return while maintaining balanced risk exposure (finance & energy sectors).\n\nThese projects showcase my readiness for banking and investment roles in Canada."
   }
 ]

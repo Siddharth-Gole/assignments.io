@@ -1,0 +1,32 @@
+---
+title: "Projects & Case Studies"
+---
+
+# Projects & Case Studies
+
+Selected projects that demonstrate my financial analysis, capital budgeting, and investment skills.
+
+## Capital Budgeting Analysis (Corporate Finance Coursework)
+During my Corporate Finance course at University Canada West, I completed a full capital budgeting evaluation for a hypothetical Canadian manufacturing firm’s expansion project.  
+
+- **Methods**: NPV, IRR, Payback Period, and sensitivity analysis on discount rate and sales growth.  
+- **Tools**: Advanced Excel financial modeling.  
+- **Outcome**: Recommended approval — positive NPV of ~CAD 52,000 and IRR of 18% (exceeding cost of capital).  
+
+This directly applied the capital budgeting techniques highlighted in my bio.
+
+## Cost Optimization & Financial Reporting Project (Shree Ganesh Trading Co.)
+Building on my role as Financial Analyst, I led an internal project to improve cost tracking and reporting.  
+
+- **Methods**: Variance analysis, trend analysis, ratio analysis on income statements and balance sheets.  
+- **Tools**: Advanced Excel dashboards.  
+- **Outcome**: Identified inefficiencies that increased profits by 10% and improved working capital management.  
+
+## Investment Portfolio Simulation (Investment Analysis Coursework)
+In Investment Analysis, I constructed and evaluated a diversified portfolio targeted at the Canadian market.  
+
+- **Methods**: Ratio & trend analysis, cash flow evaluation, sector allocation for risk management.  
+- **Tools**: Excel + introductory SQL for data handling.  
+- **Outcome**: Portfolio with projected 7–9% annual return while maintaining balanced risk exposure (finance & energy sectors).  
+
+These projects showcase my readiness for banking and investment roles in Canada.

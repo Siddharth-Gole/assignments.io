@@ -1,0 +1,53 @@
+---
+title: "Resume"
+---
+
+![](headshot.jpg){width=150px fig-align="center" fig-alt="Headshot of Siddharth Gole"}
+
+**Siddharth Gole**  
+MBA Candidate | Finance Focus  
+Vancouver, BC | siddharthgole111@gmail.com | (672) 699-5417  
+
+[Download Full Resume (PDF)](resume.pdf){download}
+
+## Professional Summary
+MBA student with a focus in Finance and strong analytical and quantitative abilities in financial reporting, capital budgeting methods like NPV and IRR. Determined to provide precise financial information and risk management. Seeking opportunities in Banking or Investment Analysis in the Canadian market.
+
+## Education
+**Master of Business Administration (MBA)**  
+University Canada West, Vancouver, BC  
+- Concentration: Finance  
+- GPA: 3.4/4.0  
+- Selected Coursework: Corporate Finance, Investment Analysis, Financial Management, Risk Management  
+
+**Bachelor of Commerce**  
+Savitribai Phule Pune University  
+- Graduated: 2023
+
+## Professional Experience & Highlights
+**Financial Analyst**  
+Shree Ganesh Trading Co. | 2023–2024  
+
+- Conducted monthly financial reports and kept proper bookkeeping records.  
+- Carried out cost and expense analysis to increase profits by 10 percent.  
+- Tracked accounts receivable and payable in order to maintain healthy working capital.  
+- Helped owner in budgeting and financial planning.
+
+## Key Skills & Strengths
+
+**Financial Analysis**  
+- Ratio & Trend Analysis  
+- Interpretation of an Income Statement and a Balance Sheet  
+- Cash Flow Analysis  
+- Variance Analysis  
+
+**Corporate Finance**  
+- Budgeting & Forecasting  
+- Capital Budgeting (NPV, IRR, Payback)  
+- Cost Analysis  
+- Profitability Analysis  
+
+**Technical**  
+- Excel (Advanced)  
+- SQL (Learning)  
+- Power BI (Basic)

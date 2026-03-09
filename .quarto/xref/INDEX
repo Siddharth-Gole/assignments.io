@@ -4,5 +4,14 @@
   },
   "index.qmd": {
     "index.html": "516fe488"
+  },
+  "contact.qmd": {
+    "contact.html": "88978a32"
+  },
+  "projects.qmd": {
+    "projects.html": "51915874"
+  },
+  "resume.qmd": {
+    "resume.html": "4b066234"
   }
 }

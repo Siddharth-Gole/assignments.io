@@ -2,13 +2,11 @@
 title: "Resume"
 ---
 
-![](headshot.jpg){width=150px fig-align="center" fig-alt="Headshot of Siddharth Gole"}
+![](headshot.jpeg){width=150px fig-align="center" fig-alt="Headshot of Siddharth Gole"}
 
 **Siddharth Gole**  
 MBA Candidate | Finance Focus  
 Vancouver, BC | siddharthgole111@gmail.com | (672) 699-5417  
-
-[Download Full Resume (PDF)](resume.pdf){download}
 
 ## Professional Summary
 MBA student with a focus in Finance and strong analytical and quantitative abilities in financial reporting, capital budgeting methods like NPV and IRR. Determined to provide precise financial information and risk management. Seeking opportunities in Banking or Investment Analysis in the Canadian market.

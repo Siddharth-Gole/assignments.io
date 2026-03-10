@@ -4,7 +4,7 @@ title: "Siddharth Gole | MBA Candidate Portfolio"
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](headshot.jpg){width=100%}
+![](headshot.jpeg){width=100%}
 
 **Siddharth Gole**  
 MBA Candidate  
